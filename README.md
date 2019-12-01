@@ -21,7 +21,7 @@ Sparkify.ipynb is an iPython Notebook used for this project.
 
 ## Results<a name="results"></a>
 
-The insights could be found at [post](https://medium.com/@soutirchakraborty/identifying-the-churn-of-customers-for-sparkify-6c1094c399d9) available
+Gradient Boost Classifier, Logistic Regression, Support Vector Machine and Random Forest Classifiers are used to predict churn. Logistic Regression out-performed other models in terms of Accuracy and F1-Score. Grid Search along with Cross validation is used to tune the hyperparameters and further important variables are also identified. For details refer to the post [post](https://medium.com/@soutirchakraborty/identifying-the-churn-of-customers-for-sparkify-6c1094c399d9)
 
 
 ## Conclusion<a name="conclusion"></a>
